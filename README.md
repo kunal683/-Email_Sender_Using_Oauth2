@@ -2,7 +2,7 @@
 This is an application for sending mail using nodemailer with the helper of GOOGLE OAUTH 2.0.
 
 
-In order to run the application copy the repository copy and run
+In order to run the application copy the repository and run
 ***npm install*** 
 to install all the dependencies of the application. 
 After intalling all the dependencies run ***node server.js*** to initiate the email.
